@@ -10,14 +10,15 @@
 
   h1 {
     color: #fff;
-    font-size: 53px;
+    font-size: 56px;
+    line-height: 53px;
     margin: 0;
     font-family: 'Coolvetica';
     font-weight: 400;
 
     &::before {
       content: '<h1>';
-      font-family: 'La Belle Aurore';
+      font-family: 'La Belle Aurore', cursive;
       color: #ffd700;
       font-size: 18px;
       position: absolute;
@@ -39,13 +40,13 @@
     }
 
      img {
-       width: 42px;
+       width: 43px;
        margin-left: 20px;
        opacity: 0;
        height: auto;
        animation: rotateIn 1s linear both;
        animation-delay: 1.4s;
-       margin-bottom: -10px;
+       margin-bottom: -12px;
        margin-right: -10px;
      }
   }

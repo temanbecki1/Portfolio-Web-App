@@ -24,13 +24,16 @@ const Contact = () => {
               />
           </h1>
           <h2>
+            <a href="mailto:temanbeck@yahoo.com" class="footer-link">
+              temanbeck@yahoo.com
+            </a>
+            <br />
+            <br />
             Page under construction :
             <br />
-
-            Click the LinkedIn icon below to connect.
             <br />
+            Click the LinkedIn icon below to connect.
 
-            Looking to implement email form
             <br />
 
             Thank you!

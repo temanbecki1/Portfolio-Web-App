@@ -43,7 +43,7 @@ const Home = () => {
               CONTACT ME
             </Link>
         </div>
-        <Logo />
+          <Logo />
       </div>
     </>
   )
